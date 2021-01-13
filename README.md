@@ -1,5 +1,5 @@
 # Data Structure: BinarySearchTree
-###Methods Included:
+### Methods Included:
 * Insert
 * InsertRecursively
 * Find
